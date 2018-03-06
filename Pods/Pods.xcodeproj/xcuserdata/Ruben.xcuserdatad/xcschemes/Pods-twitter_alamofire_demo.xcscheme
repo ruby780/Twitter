@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0920"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "018858DD2896AA96859734FEB0B2AD46"
+               BlueprintIdentifier = "2652913EC912616E98952A67064A93D8"
                BuildableName = "Pods_twitter_alamofire_demo.framework"
                BlueprintName = "Pods-twitter_alamofire_demo"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -47,7 +47,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "018858DD2896AA96859734FEB0B2AD46"
+            BlueprintIdentifier = "2652913EC912616E98952A67064A93D8"
             BuildableName = "Pods_twitter_alamofire_demo.framework"
             BlueprintName = "Pods-twitter_alamofire_demo"
             ReferencedContainer = "container:Pods.xcodeproj">
