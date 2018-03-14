@@ -22,7 +22,7 @@ class LikeAndRetweetTableViewCell: UITableViewCell {
     func refreshData() {
         let retweets = NSMutableAttributedString(string: " Retweets")
         let retweetCount = String(describing: tweet.retweetCount)
-        let attrs = [NSFontAttributeName : UIFont.boldSystemFont(ofSize: 17)]
+        let attrs = [NSAttributedStringKey.font : UIFont.boldSystemFont(ofSize: 17)]
         let retweetCountandLabel = NSMutableAttributedString(string:retweetCount, attributes:attrs)
         retweetCountandLabel.append(retweets)
         retweetLabel.attributedText = retweetCountandLabel

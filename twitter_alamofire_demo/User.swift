@@ -13,6 +13,10 @@ class User {
     var name: String?
     var screenName: String?
     var profileImageURLString: String?
+    var bannerImageURLString: String?
+    var followerCount: Int!
+    var friendsCount: Int!
+    
     static var current: User? {
         get {
             if _current == nil {
@@ -44,5 +48,8 @@ class User {
         name = dictionary["name"] as? String
         screenName = dictionary["screen_name"] as? String
         profileImageURLString = dictionary["profile_image_url"] as? String
+        bannerImageURLString = dictionary["profile_banner_url"] as? String
+        followerCount = dictionary["followers_count"] as! Int
+        friendsCount = dictionary["friends_count"] as! Int
     }
 }

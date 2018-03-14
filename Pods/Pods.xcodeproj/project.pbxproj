@@ -181,11 +181,11 @@
 		1F55B6F0DAE535EFA36DA6DA498F5435 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1F61C3275914115528C4236D9D5F67B1 /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
 		237299F64870C909462288CBC4937F13 /* UIButton+AlamofireImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIButton+AlamofireImage.swift"; path = "Source/UIButton+AlamofireImage.swift"; sourceTree = "<group>"; };
-		2529379A506F07D0C85FA69E21ED17C3 /* OAuthSwiftAlamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = OAuthSwiftAlamofire.modulemap; sourceTree = "<group>"; };
+		2529379A506F07D0C85FA69E21ED17C3 /* OAuthSwiftAlamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = OAuthSwiftAlamofire.modulemap; sourceTree = "<group>"; };
 		2634B9135CBC828B3D5BAAD7611B722E /* ImageFilter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ImageFilter.swift; path = Source/ImageFilter.swift; sourceTree = "<group>"; };
 		2652BCFFDDAFA70C7D5651BB4885DB8E /* Pods-twitter_alamofire_demoTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-twitter_alamofire_demoTests.debug.xcconfig"; sourceTree = "<group>"; };
 		27DBCFDA2044872411CB4D0E086358F8 /* OAuthSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "OAuthSwift-prefix.pch"; sourceTree = "<group>"; };
-		29934ABB4DF7FF337DF7964292F5A27F /* Pods-twitter_alamofire_demo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-twitter_alamofire_demo.modulemap"; sourceTree = "<group>"; };
+		29934ABB4DF7FF337DF7964292F5A27F /* Pods-twitter_alamofire_demo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-twitter_alamofire_demo.modulemap"; sourceTree = "<group>"; };
 		2AB024BE483D3A728CE7C03C7F0DB93A /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
 		2C981FFDE4D81D0F1700CF3EFB01078F /* AlamofireImage-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AlamofireImage-prefix.pch"; sourceTree = "<group>"; };
 		2FD874965FEED20AB8A853C029949D99 /* OAuthSwiftHTTPRequest.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftHTTPRequest.swift; path = Sources/OAuthSwiftHTTPRequest.swift; sourceTree = "<group>"; };
@@ -193,7 +193,7 @@
 		3217824E16FDBF1E0B2F04D49585B949 /* OAuthSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = OAuthSwift.xcconfig; sourceTree = "<group>"; };
 		34564807286CCF82599B9E0A69682A8B /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
 		34D942F2B40A99F0A663376F361FB679 /* Pods-twitter_alamofire_demoUITests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-twitter_alamofire_demoUITests-dummy.m"; sourceTree = "<group>"; };
-		3592FC15E0C99DED1AAC70F5F210213C /* Pods_twitter_alamofire_demoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_twitter_alamofire_demoTests.framework; path = "Pods-twitter_alamofire_demoTests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		3592FC15E0C99DED1AAC70F5F210213C /* Pods_twitter_alamofire_demoTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_twitter_alamofire_demoTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		369CE962B5F2AF64712E5409D0FA2073 /* Pods-twitter_alamofire_demoTests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-twitter_alamofire_demoTests-dummy.m"; sourceTree = "<group>"; };
 		374B6A7C53F5C611F84C3A17153CD284 /* KeychainAccess-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KeychainAccess-dummy.m"; sourceTree = "<group>"; };
 		39E87E5888F183BADA6454BEBA336037 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
@@ -201,17 +201,17 @@
 		4116C91DE2DA774B4166BC6FBC0565A5 /* RSKPlaceholderTextView-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RSKPlaceholderTextView-umbrella.h"; sourceTree = "<group>"; };
 		436F6B6942EF69D428C5DFE145E95590 /* Dictionary+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Dictionary+OAuthSwift.swift"; path = "Sources/Dictionary+OAuthSwift.swift"; sourceTree = "<group>"; };
 		457FD20E4A46F8D2402AC59333830B95 /* Pods-twitter_alamofire_demoUITests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-twitter_alamofire_demoUITests-resources.sh"; sourceTree = "<group>"; };
-		45A4AB58E27AFFF2462E177023CA6EF0 /* RSKPlaceholderTextView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = RSKPlaceholderTextView.modulemap; sourceTree = "<group>"; };
+		45A4AB58E27AFFF2462E177023CA6EF0 /* RSKPlaceholderTextView.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = RSKPlaceholderTextView.modulemap; sourceTree = "<group>"; };
 		47B88F6CAD92FD353AA4A0104853BF56 /* KeychainAccess.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KeychainAccess.xcconfig; sourceTree = "<group>"; };
 		499CC7F8AB8DC7604BA2DB0241226630 /* OAuthWebViewController.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthWebViewController.swift; path = Sources/OAuthWebViewController.swift; sourceTree = "<group>"; };
 		4C9058DB474F2BC3631FDC51A61BCBAA /* TaskDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TaskDelegate.swift; path = Source/TaskDelegate.swift; sourceTree = "<group>"; };
-		4F2C2E9ABA29855D2B616F4A62C6915E /* Pods_twitter_alamofire_demoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_twitter_alamofire_demoUITests.framework; path = "Pods-twitter_alamofire_demoUITests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		4F2C2E9ABA29855D2B616F4A62C6915E /* Pods_twitter_alamofire_demoUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_twitter_alamofire_demoUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		5053D1FC457F2EE24B66D6B8A7796144 /* Objc.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Objc.swift; path = Sources/Objc.swift; sourceTree = "<group>"; };
 		5082C275A25E652E373586DBEF25316B /* HTTPMethod.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HTTPMethod.swift; path = Sources/HTTPMethod.swift; sourceTree = "<group>"; };
 		50ADCF0ACB85DCE780C5AEA89408DD45 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		52077F09FD67C8143DF58AF326914962 /* RSKPlaceholderTextView.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RSKPlaceholderTextView.swift; path = RSKPlaceholderTextView/RSKPlaceholderTextView.swift; sourceTree = "<group>"; };
 		54B03CB04B8294DDCEB307F235FFCF14 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		56A4C91BFE3EB73CD20EC3FF91568A1C /* Pods_twitter_alamofire_demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_twitter_alamofire_demo.framework; path = "Pods-twitter_alamofire_demo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		56A4C91BFE3EB73CD20EC3FF91568A1C /* Pods_twitter_alamofire_demo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_twitter_alamofire_demo.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		56E71DCE1BF229B0CF25E0B5471ED95C /* Pods-twitter_alamofire_demoTests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-twitter_alamofire_demoTests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		57C3621C8FF326150D2D00DFD3B946DD /* UIApplication+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIApplication+OAuthSwift.swift"; path = "Sources/UIApplication+OAuthSwift.swift"; sourceTree = "<group>"; };
 		5808A6F21D3066C9142CF12D5D204619 /* OAuthSwiftCredential.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftCredential.swift; path = Sources/OAuthSwiftCredential.swift; sourceTree = "<group>"; };
@@ -219,15 +219,15 @@
 		59996AF36A57E7CD6CC6C480CBE5EC46 /* Pods-twitter_alamofire_demo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-twitter_alamofire_demo-umbrella.h"; sourceTree = "<group>"; };
 		5A7313E92B0E773700FFDDD2F055D60D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5B8B66EAB329D8475D55B6735CD05C53 /* Utils.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Utils.swift; path = Sources/Utils.swift; sourceTree = "<group>"; };
-		5D68C10D281197F8D3F46E542D054952 /* Pods-twitter_alamofire_demoUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-twitter_alamofire_demoUITests.modulemap"; sourceTree = "<group>"; };
+		5D68C10D281197F8D3F46E542D054952 /* Pods-twitter_alamofire_demoUITests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-twitter_alamofire_demoUITests.modulemap"; sourceTree = "<group>"; };
 		625FD9BAEFD9F0852FBE23B1B5979541 /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
 		70BF454851552B2DED577563581137DB /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
 		72DDC1FF8087785D902AD2A1F79F18FB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		72F0E6C78BA8FF87E6CBCEE63579FC9C /* Pods-twitter_alamofire_demoUITests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-twitter_alamofire_demoUITests-acknowledgements.plist"; sourceTree = "<group>"; };
-		75BDD0081C9B5CAABF986EF93F3CD021 /* KeychainAccess.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = KeychainAccess.modulemap; sourceTree = "<group>"; };
+		75BDD0081C9B5CAABF986EF93F3CD021 /* KeychainAccess.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = KeychainAccess.modulemap; sourceTree = "<group>"; };
 		7666E1043737E4F2A0EF2221A8A6D482 /* OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwift.swift; path = Sources/OAuthSwift.swift; sourceTree = "<group>"; };
-		7796DB01A2839B60875DBC2C183BF595 /* AlamofireImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = AlamofireImage.modulemap; sourceTree = "<group>"; };
-		79EA4C03E5B76AD26411F2B244189526 /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = KeychainAccess.framework; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		7796DB01A2839B60875DBC2C183BF595 /* AlamofireImage.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = AlamofireImage.modulemap; sourceTree = "<group>"; };
+		79EA4C03E5B76AD26411F2B244189526 /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AE506B74F56307B762265530CD9B234 /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
 		7B6604016058F7018BF4697FB100F1B3 /* RSKPlaceholderTextView.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RSKPlaceholderTextView.xcconfig; sourceTree = "<group>"; };
 		7E23BD9E444F0D306D0291E9879CEACC /* OAuthSwiftError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftError.swift; path = Sources/OAuthSwiftError.swift; sourceTree = "<group>"; };
@@ -235,13 +235,13 @@
 		86723EB58FBB5A1DBC9873D666AD2146 /* Keychain.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Keychain.swift; path = Lib/KeychainAccess/Keychain.swift; sourceTree = "<group>"; };
 		867B8AC496B4AEB994C6C47AC8B7962D /* NSError+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "NSError+OAuthSwift.swift"; path = "Sources/NSError+OAuthSwift.swift"; sourceTree = "<group>"; };
 		88256069C528BA81119F9DBB623A518B /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
-		8841ABBE6492957374631275709FF788 /* OAuthSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = OAuthSwift.modulemap; sourceTree = "<group>"; };
-		8A92A5E56B98A46A34EC52D4687647F1 /* Pods-twitter_alamofire_demoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-twitter_alamofire_demoTests.modulemap"; sourceTree = "<group>"; };
+		8841ABBE6492957374631275709FF788 /* OAuthSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = OAuthSwift.modulemap; sourceTree = "<group>"; };
+		8A92A5E56B98A46A34EC52D4687647F1 /* Pods-twitter_alamofire_demoTests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-twitter_alamofire_demoTests.modulemap"; sourceTree = "<group>"; };
 		8C4CC3E3B9594214BCF07CCEDCCDB8B1 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
-		8D2F9CE4B3474970D52A711DA37A22A3 /* RSKPlaceholderTextView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = RSKPlaceholderTextView.framework; path = RSKPlaceholderTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		8D2F9CE4B3474970D52A711DA37A22A3 /* RSKPlaceholderTextView.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RSKPlaceholderTextView.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		90FF9D6821A1F7D735DE67D0BB6F2E73 /* URL+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "URL+OAuthSwift.swift"; path = "Sources/URL+OAuthSwift.swift"; sourceTree = "<group>"; };
 		939C4B60E1C37480391C1BAC521E2154 /* OAuthSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "OAuthSwift-dummy.m"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93EE17F3A7994785941099DC91F6F9B6 /* OAuth1Swift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuth1Swift.swift; path = Sources/OAuth1Swift.swift; sourceTree = "<group>"; };
 		95363E32D9CD6EAFA0EDD89215756A7B /* Pods-twitter_alamofire_demoTests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-twitter_alamofire_demoTests-frameworks.sh"; sourceTree = "<group>"; };
 		9612A76312FFD13A196CE2E7F1789A9A /* SHA1.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SHA1.swift; path = Sources/SHA1.swift; sourceTree = "<group>"; };
@@ -252,12 +252,12 @@
 		A7C2C8F4852FCAAA6BDACA882FC4D168 /* Data+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Data+OAuthSwift.swift"; path = "Sources/Data+OAuthSwift.swift"; sourceTree = "<group>"; };
 		A8F3C36A951BACE423FE2CF034BF32B0 /* Pods-twitter_alamofire_demoTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-twitter_alamofire_demoTests.release.xcconfig"; sourceTree = "<group>"; };
 		AE85D2236D7F56169CBEE1D75C85E0DB /* Request+AlamofireImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Request+AlamofireImage.swift"; path = "Source/Request+AlamofireImage.swift"; sourceTree = "<group>"; };
-		B2396C7EC7170122D338545C3AD058EF /* AlamofireImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = AlamofireImage.framework; path = AlamofireImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B2396C7EC7170122D338545C3AD058EF /* AlamofireImage.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AlamofireImage.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B2520EB809FEADB5C0DD1834066977FB /* SessionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionManager.swift; path = Source/SessionManager.swift; sourceTree = "<group>"; };
 		B3A057FD869E7FFE772C5621D8C26FDC /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B5CA0BB7288EDF2D5B981BA6198B8AD0 /* KeychainAccess-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KeychainAccess-umbrella.h"; sourceTree = "<group>"; };
 		B9658EF2C30F67D8392103DACDDCDD43 /* UIImageView+AlamofireImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImageView+AlamofireImage.swift"; path = "Source/UIImageView+AlamofireImage.swift"; sourceTree = "<group>"; };
-		B96780823148A79F37073A01A5207098 /* OAuthSwiftAlamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OAuthSwiftAlamofire.framework; path = OAuthSwiftAlamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		B96780823148A79F37073A01A5207098 /* OAuthSwiftAlamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OAuthSwiftAlamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BAB3173D5A389858924F1811404B5E07 /* UIImage+AlamofireImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "UIImage+AlamofireImage.swift"; path = "Source/UIImage+AlamofireImage.swift"; sourceTree = "<group>"; };
 		BB1195A56058A5C0E4B0D96F29DDB372 /* Collection+OAuthSwift.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "Collection+OAuthSwift.swift"; path = "Sources/Collection+OAuthSwift.swift"; sourceTree = "<group>"; };
 		BCFA9FE9EADF850E91628FDEC3AC7A9E /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -265,7 +265,7 @@
 		C03EBB1C2B952256F97F3DD019357EDD /* RSKPlaceholderTextView-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RSKPlaceholderTextView-prefix.pch"; sourceTree = "<group>"; };
 		C0D98FA2A899AF16024E5197829BD66C /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		C2C662E29A93AC39445B319830504646 /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Request.swift; path = Source/Request.swift; sourceTree = "<group>"; };
-		C47A31B4146C1E36331EEE0A42CBEE98 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Alamofire.framework; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C47A31B4146C1E36331EEE0A42CBEE98 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		C77AB9E2CA8E2D56256ADC218E162287 /* Pods-twitter_alamofire_demoUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-twitter_alamofire_demoUITests.release.xcconfig"; sourceTree = "<group>"; };
 		C8B97A10D584F35ACB187D0D89557708 /* Pods-twitter_alamofire_demoTests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-twitter_alamofire_demoTests-umbrella.h"; sourceTree = "<group>"; };
 		CBA4C20732D52173504E3929C35C1CE0 /* OAuthSwiftMultipartData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftMultipartData.swift; path = Sources/OAuthSwiftMultipartData.swift; sourceTree = "<group>"; };
@@ -280,7 +280,7 @@
 		DEF39C38ABA579063ADA567786B481BF /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		E1CB4D565AD5BB83FCD21E2721AC6D4C /* Pods-twitter_alamofire_demo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-twitter_alamofire_demo-acknowledgements.plist"; sourceTree = "<group>"; };
 		E2CF09B552383717370F8E5A0FA53F08 /* RSKPlaceholderTextView-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RSKPlaceholderTextView-dummy.m"; sourceTree = "<group>"; };
-		E7A747A7267840BB1413F545EC2B7408 /* Alamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = Alamofire.modulemap; sourceTree = "<group>"; };
+		E7A747A7267840BB1413F545EC2B7408 /* Alamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = Alamofire.modulemap; sourceTree = "<group>"; };
 		E7E0EB43C90CDAAACCAF71987B5A05DA /* HMAC.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = HMAC.swift; path = Sources/HMAC.swift; sourceTree = "<group>"; };
 		E8591076BFA5BD9395868964185648C6 /* Pods-twitter_alamofire_demoUITests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-twitter_alamofire_demoUITests-umbrella.h"; sourceTree = "<group>"; };
 		EAB0B67F3F0423F3118AC19C0FCCC582 /* OAuthSwiftRequestAdapter.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftRequestAdapter.swift; path = Sources/OAuthSwiftRequestAdapter.swift; sourceTree = "<group>"; };
@@ -289,7 +289,7 @@
 		EB9EDE982E5080F70D77B3180C65C175 /* Pods-twitter_alamofire_demoTests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-twitter_alamofire_demoTests-resources.sh"; sourceTree = "<group>"; };
 		F632AD91D8F57360FD95933C62426559 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
 		F82544546C760CA1FEFA9EE9553BFCE3 /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
-		FB101E42950A42881CD0CA5D3C1BA4C4 /* OAuthSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = OAuthSwift.framework; path = OAuthSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FB101E42950A42881CD0CA5D3C1BA4C4 /* OAuthSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = OAuthSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC0BD2F4642CF9262EFE5BDC59EE9720 /* Pods-twitter_alamofire_demo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-twitter_alamofire_demo-frameworks.sh"; sourceTree = "<group>"; };
 		FC504608A8C46C046E83BC9AF83F91A8 /* OAuthSwiftResponse.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = OAuthSwiftResponse.swift; path = Sources/OAuthSwiftResponse.swift; sourceTree = "<group>"; };
 		FFE962C2E01E8C3AD5382D1F1EDCE8A1 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -396,7 +396,6 @@
 				EAB0B67F3F0423F3118AC19C0FCCC582 /* OAuthSwiftRequestAdapter.swift */,
 				067F046C0E7278DB8D596CE5D742C128 /* Support Files */,
 			);
-			name = OAuthSwiftAlamofire;
 			path = OAuthSwiftAlamofire;
 			sourceTree = "<group>";
 		};
@@ -406,7 +405,6 @@
 				86723EB58FBB5A1DBC9873D666AD2146 /* Keychain.swift */,
 				26218A15F9AD14C1B04B5675B3E63FAC /* Support Files */,
 			);
-			name = KeychainAccess;
 			path = KeychainAccess;
 			sourceTree = "<group>";
 		};
@@ -424,7 +422,6 @@
 				B9658EF2C30F67D8392103DACDDCDD43 /* UIImageView+AlamofireImage.swift */,
 				DC820B80B0160DA6E63A45844AD14A67 /* Support Files */,
 			);
-			name = AlamofireImage;
 			path = AlamofireImage;
 			sourceTree = "<group>";
 		};
@@ -562,7 +559,6 @@
 				52077F09FD67C8143DF58AF326914962 /* RSKPlaceholderTextView.swift */,
 				18705C781F197A53C560194EEC17E6F3 /* Support Files */,
 			);
-			name = RSKPlaceholderTextView;
 			path = RSKPlaceholderTextView;
 			sourceTree = "<group>";
 		};
@@ -613,7 +609,6 @@
 				5B8B66EAB329D8475D55B6735CD05C53 /* Utils.swift */,
 				F934CCDAC358266C828B37380D1E560F /* Support Files */,
 			);
-			name = OAuthSwift;
 			path = OAuthSwift;
 			sourceTree = "<group>";
 		};
@@ -653,7 +648,6 @@
 				1F61C3275914115528C4236D9D5F67B1 /* Validation.swift */,
 				3203560CC6507D32CAE80EB53DF229C6 /* Support Files */,
 			);
-			name = Alamofire;
 			path = Alamofire;
 			sourceTree = "<group>";
 		};
@@ -1173,7 +1167,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1424,7 +1418,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";
@@ -1486,7 +1480,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VALIDATE_PRODUCT = YES;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -1582,7 +1576,7 @@
 				SKIP_INSTALL = YES;
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
-				SWIFT_VERSION = 4.0;
+				SWIFT_VERSION = 3.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				VERSIONING_SYSTEM = "apple-generic";
 				VERSION_INFO_PREFIX = "";

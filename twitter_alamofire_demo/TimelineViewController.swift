@@ -63,7 +63,7 @@ class TimelineViewController: UIViewController, UITableViewDelegate, UITableView
     // Makes a network request to get updated data
     // Updates the tableView with the new data
     // Hides the RefreshControl
-    func refreshControlAction(_ refreshControl: UIRefreshControl) {
+    @objc func refreshControlAction(_ refreshControl: UIRefreshControl) {
         APIManager.shared.getHomeTimeLine { (tweets, error) in
             if let tweets = tweets {
                 self.tweets = tweets
